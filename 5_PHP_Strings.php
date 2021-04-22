@@ -345,7 +345,7 @@ wordwrap()	                            Wraps a string to a given number of chara
 ?>
 
 <br><br><br><br><br><br>
-<h1>Complete Strinig Function Refrence <a href="https://www.w3schools.com/php/php_ref_string.asp">String Function</a></h1>
+<h1>Complete Strinig Function Refrence <a href="     https://www.w3schools.com/php/php_ref_string.asp   ">String Function</a></h1>
 
 
 
