@@ -134,5 +134,11 @@ echo '<br><br>'.'str_replace() - Replace Text Within a String : '.str_replace("w
 
 
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<a href="/PHP_tutorial/">Back</a>
 </body>
 </html>
