@@ -231,7 +231,7 @@ print "<br><br><br>";
         }
 
         // Creating Objects
-        $myCar = new Car("black", "Volvo");
+        $myCar = new Car("black", "Volvo"); //If you create a __construct() function, PHP will automatically call this function when you create an object from a class.
         echo $myCar -> message();
         echo "<br>";
         $myCar = new Car("red", "Toyota");
